@@ -1,4 +1,6 @@
 *
-!autoexec.cfg
-!custom
 !.gitignore
+!autoexec.cfg
+!readme.md
+!custom/
+!custom/**/*.cfg
